@@ -132,7 +132,7 @@
       <workItem from="1579189570576" duration="1695000" />
       <workItem from="1579297375107" duration="128000" />
       <workItem from="1579297581459" duration="81000" />
-      <workItem from="1579297782882" duration="268000" />
+      <workItem from="1579297782882" duration="547000" />
     </task>
     <task id="LOCAL-00001" summary="HI">
       <created>1571688207208</created>
@@ -178,14 +178,6 @@
     </task>
     <option name="localTasksCounter" value="7" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="TestUserService - 2019.10.23 at 22h 40m 53s.xml">
-      <configuration name="TestUserService" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestUserService - 2019.10.24 at 09h 40m 30s.xml">
-      <configuration name="TestUserService" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
